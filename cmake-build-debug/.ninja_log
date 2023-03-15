@@ -1,0 +1,15 @@
+# ninja log v5
+176	327	1673193736176797598	minesweeper	1522dc1f67beadc8
+2	175	1673193736018321700	CMakeFiles/minesweeper.dir/main.c.o	d5fc0e2108e1cbcd
+3	167	1673193863175867024	CMakeFiles/minesweeper.dir/main.c.o	d5fc0e2108e1cbcd
+168	285	1673193863303462881	minesweeper	1522dc1f67beadc8
+2	151	1673194152937047804	CMakeFiles/minesweeper.dir/main.c.o	d5fc0e2108e1cbcd
+153	269	1673194153057389655	minesweeper	1522dc1f67beadc8
+2	175	1673194223886509228	CMakeFiles/minesweeper.dir/main.c.o	d5fc0e2108e1cbcd
+176	284	1673194224000520963	minesweeper	1522dc1f67beadc8
+3	186	1673196048926997460	CMakeFiles/minesweeper.dir/main.c.o	d5fc0e2108e1cbcd
+187	307	1673196049055891393	minesweeper	1522dc1f67beadc8
+13	192	1673196216717312634	CMakeFiles/minesweeper.dir/main.c.o	d5fc0e2108e1cbcd
+193	303	1673196216834877290	minesweeper	1522dc1f67beadc8
+4	193	1673196299160379099	CMakeFiles/minesweeper.dir/main.c.o	d5fc0e2108e1cbcd
+195	305	1673196299277808250	minesweeper	1522dc1f67beadc8
